@@ -1,0 +1,5 @@
+fdjfd
+gjgjggj
+gjggkgkk
+git branch
+git branch -m $name
